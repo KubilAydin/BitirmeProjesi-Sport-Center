@@ -10,7 +10,7 @@ Bu projede kullanılan frameworkler ve programlama dilleri aşağıdaki gibidir.
 
 ## 📌Netfliy ile paylaşıldı.
 
-[Netlify Link ---->]()
+[<---- Netlify Link ---->](https://zingy-sunshine-347ac5.netlify.app/)
 
 ## 🛠️ Proje Özeti
 
@@ -67,7 +67,7 @@ Iframe görüntünün mobil görüntüsü için belirli height'lar veirldi.
 Projeyi klonlayın
 
 ```cmd
-  git clone https://link-to-project
+  git clone https://github.com/KubilAydin/BitirmeProjesi-Sport-Center.git
 ```
 
 
